@@ -1,0 +1,22 @@
+{
+  "wheel_id": 629,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-105",
+  "project": "retaining-wall-quotes-brisbane-glossary-accd77601d3c00e2c751bc2",
+  "parent_t1_ref": "retainingwallpros-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane glossary",
+  "intended_url": "http://retaining-wall-quotes-brisbane-glossary-accd77601d3c00e2c751bc2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "1e54347ce3e84ec9",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallpros-152/",
+      "anchor": "a guide to retaining wall quotes brisbane planning guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
